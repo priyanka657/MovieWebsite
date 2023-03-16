@@ -4,6 +4,7 @@ import Home from './Home';
 import SingleMovie from './SingleMovie';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import Error from './Error';
+import SingleMovie from './SingleMovie';
 
 function App() {
   return (
