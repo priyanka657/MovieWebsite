@@ -6,7 +6,6 @@ import Movies from "./Movies";
 const Home = () => {
   return (
     <>
-    <h1>Hello</h1>
     <Search/>
     <Movies/>
     </>
